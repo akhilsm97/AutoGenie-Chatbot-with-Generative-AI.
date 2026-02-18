@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "What is the name of your vehicle showroom?",
+    "completion": "Our showroom is called **AutoDrive Motors**, located in the heart of the city near MG Road."
+  },
+  {
+    "prompt": "Do you provide zero down payment options?",
+    "completion": "Yes, **AutoDrive Motors** offers zero down payment schemes through select banking partners like HDFC and ICICI, subject to credit approval."
+  },
+  {
+    "prompt": "What are your financing terms?",
+    "completion": "We offer flexible financing terms ranging from **12 to 84 months**, with interest rates starting at **8.99% per annum**, depending on your credit score and lender."
+  },
+  {
+    "prompt": "What documents are required for vehicle purchase?",
+    "completion": "You’ll need a valid **photo ID**, **proof of income**, **address proof**, and **bank statements** from the last 3 months."
+  },
+  {
+    "prompt": "Is there any warranty on the vehicles?",
+    "completion": "Yes, all new vehicles come with a **3-year or 100,000 km manufacturer warranty**. Extended warranty packages are also available."
+  },
+  {
+    "prompt": "Do you sell used vehicles too?",
+    "completion": "Yes, **AutoDrive Motors** has a certified pre-owned section where all vehicles are **inspected on 150+ points** and come with a 6-month warranty."
+  },
+  {
+    "prompt": "What are the terms and conditions for EMI?",
+    "completion": "EMI options are subject to loan approval by partnered banks. Pre-closure charges may apply based on the bank. Minimum income of ₹20,000/month is required."
+  },
+  {
+    "prompt": "Can I exchange my old vehicle?",
+    "completion": "Yes, we offer **vehicle exchange programs**. You can get up to ₹50,000 in exchange bonus after a physical inspection and valuation of your old vehicle."
+  },
+  {
+    "prompt": "Do you provide test drives?",
+    "completion": "Absolutely. You can **schedule a free test drive** for any model available at our showroom or request a home test drive if you're within 15 km."
+  },
+  {
+    "prompt": "What is the refund policy if I cancel the booking?",
+    "completion": "Booking cancellations are allowed within **48 hours**, and a nominal charge of ₹1,000 will be deducted from the refund."
+  }
+]

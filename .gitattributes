@@ -1,0 +1,2 @@
+My_Showroom filter=lfs diff=lfs merge=lfs -text
+My_Showroom/** filter=lfs diff=lfs merge=lfs -text

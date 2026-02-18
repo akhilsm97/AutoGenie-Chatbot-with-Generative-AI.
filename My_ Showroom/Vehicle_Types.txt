@@ -1,0 +1,649 @@
+
+
+Vehicle Types
+
+1. Sedan
+
+Definition:
+
+A passenger car with a three-box configuration (engine, cabin, trunk). Known for comfort and fuel efficiency.
+
+Examples: 
+
+?Honda City, 
+
+?Toyota Corolla
+
+Features:
+
+?4 doors
+
+?Good fuel economy
+
+?Suitable for city and highway drives
+
+
+2. SUV (Sport Utility Vehicle)
+
+Definition:
+
+A larger vehicle with off-road capability and higher ground clearance.
+
+Examples: Toyota Fortuner, Ford Endeavour
+
+Features:
+
+?All-wheel or 4-wheel drive
+
+?High seating position
+
+?Spacious interiors
+
+
+3. Hatchback
+
+Definition:
+
+A compact car with a rear door that swings upward.
+
+Examples: Maruti Swift, Hyundai i20
+
+Features:
+
+?Compact size
+
+?Good mileage
+
+?Ideal for city driving
+
+
+4. Coupe
+
+Definition:
+
+A two-door car with a sporty look and performance.
+
+Examples: Ford Mustang, BMW 4 Series
+
+?Features:
+
+?Sporty design
+
+?Typically 2 seats (or 2+2)
+
+?High performance
+
+
+5. Pickup Truck
+
+Definition:
+
+A light-duty truck with an enclosed cab and open cargo area.
+
+Examples: Ford Ranger, Toyota Hilux
+
+Features:
+
+?Utility-focused
+
+?High load capacity
+
+?Off-road ready
+
+
+6. Electric Vehicle (EV)
+
+Definition:
+
+A vehicle powered by electric motors using batteries.
+
+Examples: Tesla Model 3, Tata Nexon EV
+
+Features:
+
+?Zero emissions
+
+?Lower running cost
+
+?Rechargeable batteries
+
+
+Common Vehicle Components
+
+1. Engine
+
+Definition:
+
+The powerhouse that converts fuel into mechanical energy.
+
+Types: Petrol, Diesel, Hybrid, Electric
+
+
+2. Transmission
+
+Definition:
+
+System that transmits engine power to the wheels.
+
+Types: Manual, Automatic, CVT, Dual-clutch
+
+
+3. Brakes
+
+Definition:
+
+Used to slow down or stop the vehicle.
+
+Types: Disc brakes, Drum brakes, ABS (Anti-lock Braking System)
+
+
+4. Suspension
+
+Definition:
+
+Provides stability and absorbs road shocks.
+
+Parts: Shock absorbers, springs, struts
+
+
+5. Battery
+
+Definition:
+
+Provides electrical power to start the engine and run accessories.
+
+Types: Lead-acid (traditional), Lithium-ion (EVs)
+
+
+Common Problems
+
+1. Engine Overheating
+
+Causes:
+
+?Low coolant
+
+?Faulty thermostat
+
+?Radiator issues
+
+Solutions:
+
+?Check coolant levels
+
+?Flush radiator
+
+?Replace faulty components
+
+
+2. Brake Noise or Failure
+
+Causes:
+
+?Worn brake pads
+
+?Damaged rotor
+
+?Low brake fluid
+
+Solutions:
+
+?Replace brake pads
+
+?Inspect brake fluid
+
+?Check rotor condition
+
+
+3. Battery Drain
+
+Causes:
+
+?Old battery
+
+?Parasitic draw
+
+?Alternator issue
+
+Solutions:
+
+?Battery replacement
+
+?Electrical check
+
+?Alternator test
+
+
+4. Transmission Slipping
+
+Causes:
+
+?Low transmission fluid
+
+?Worn clutch (manual)
+
+?Transmission wear
+
+Solutions:
+
+?Refill/flush transmission fluid
+
+?Inspect clutch
+
+?Transmission rebuild
+
+
+Diagnostic Tests
+
+1. OBD Scan (On-Board Diagnostics)
+
+Purpose:
+
+Detect engine and system faults via scanner.
+
+Tests For:
+
+?Check engine light
+
+?Emissions
+
+?Sensor status
+
+
+2. Wheel Alignment Test
+
+Purpose
+
+Ensures wheels are aligned properly for safety and tire longevity.
+
+Indications:
+
+?Vehicle pulling to one side
+
+?Uneven tire wear
+
+
+3. Brake Inspection
+
+Purpose:
+
+Checks brake pad thickness, fluid levels, and rotor condition.
+
+Frequency:
+
+Every 6 months or 10,000 km
+
+4. Emission Test
+
+Purpose:
+
+Measures pollutants in exhaust gases.
+
+Required For:
+
+Registration renewals (in many countries)
+
+Environmental compliance
+
+
+Routine Maintenance
+
+1. Oil Change
+
+Interval:
+
+Every 5,000�10,000 km
+
+Benefits:
+
+?Prolongs engine life
+
+?Maintains engine efficiency
+
+
+2. Tire Rotation
+
+Interval:
+
+Every 8,000�10,000 km
+
+Benefits:
+
+?Even tire wear
+
+?Better handling
+
+
+3. Air Filter Replacement
+
+Interval:
+
+Every 15,000�20,000 km
+
+Benefits:
+
+?Better fuel efficiency
+
+?Improved engine performance
+
+
+4. Coolant Top-Up
+
+Purpose:
+
+?Prevents engine overheating
+
+Check:
+
+?Every 10,000 km or 6 months
+
+
+5. Battery Check
+
+Check For:
+
+?Charge level, corrosion, age
+
+Frequency:
+
+?Annually
+
+
+Car Models
+
+1. Maruti Suzuki Swift
+
+Definition:
+
+A compact hatchback known for fuel efficiency and ease of city driving.
+
+Price (INR):
+
+?6.0 � ?9.0 Lakhs (Ex-showroom)
+
+Engine:
+
+?1.2L Petrol Engine
+
+?Manual & AMT options
+
+Features:
+
+?Touchscreen infotainment
+
+?Dual airbags
+
+?Reverse parking sensors
+
+Ideal For:
+
+City commuting, first-time car buyers
+
+
+2. Hyundai Creta
+
+Definition:
+
+A popular compact SUV offering space, comfort, and tech features.
+
+Price (INR):
+
+?11.0 � ?20.0 Lakhs
+
+Engine:
+
+?1.5L Petrol/Diesel
+
+?Manual, CVT, and DCT options
+
+Features:
+
+?Panoramic sunroof
+
+?10.25" infotainment
+
+?Six airbags (top variant)
+
+Ideal For:
+
+Family usage, highway drives
+
+
+3. Tata Nexon EV
+
+Definition:
+
+India�s best-selling electric SUV, known for affordability and range
+
+Price (INR):
+
+?15.0 � ?19.0 Lakhs
+
+Battery & Range:
+
+?30.2 kWh battery
+
+?~312 km range (ARAI)
+
+Features:
+
+?Fast charging support
+
+?Voice-assisted infotainment
+
+?5-star Global NCAP safety rating
+
+Ideal For:
+
+Eco-conscious buyers, urban use
+
+
+4. Toyota Fortuner
+
+Definition:
+
+A premium full-size SUV known for rugged performance and road presence.
+
+Price (INR):
+
+?33.0 � ?51.0 Lakhs
+
+Engine:
+
+?2.7L Petrol / 2.8L Diesel
+
+?Manual & Automatic
+
+Features:
+
+?4x4 capability
+
+?Leather interiors
+
+?Hill assist, cruise control
+
+Ideal For:
+
+Off-road enthusiasts, luxury SUV segment
+
+
+5. Honda City
+
+Definition:
+
+A premium mid-size sedan with comfort and smooth performance.
+
+Price (INR):
+
+?11.5 � ?16.0 Lakhs
+
+Engine:
+
+?1.5L Petrol / Hybrid
+
+?Manual & CVT
+
+Features:
+
+?LaneWatch camera
+
+?Honda Sensing (ADAS features)
+
+?Sunroof (top trims)
+
+Ideal For:
+
+Daily drives, executives, families
+
+
+??? Bike Models
+
+1. Hero Splendor Plus
+
+Definition:
+
+India's most popular commuter bike known for mileage and reliability.
+
+Price (INR):
+
+?75,000 � ?85,000
+
+Engine:
+
+97.2cc, single-cylinder, air-cooled
+
+Mileage:
+
+~65�70 km/l
+
+Features:
+
+?i3S start/stop tech
+
+?Simple instrument cluster
+
+Ideal For:
+
+Daily commuting, budget-conscious users
+
+
+2. Royal Enfield Classic 350
+
+Definition:
+
+A retro-style cruiser bike known for its thump and road presence.
+
+Price (INR):
+
+?1.9 � ?2.3 Lakhs
+
+Engine:
+
+349cc, air/oil-cooled single-cylinder
+
+Mileage:
+
+~35�40 km/l
+
+Features:
+
+Digital-analog console
+
+Dual-channel ABS
+
+Ideal For:
+
+Long rides, touring, enthusiasts
+
+
+3. Bajaj Pulsar 150
+
+Definition:
+
+A sporty commuter with good power and performance for its price.
+
+Price (INR):
+
+?1.1 � ?1.2 Lakhs
+
+Engine:
+
+149cc, air-cooled
+
+Mileage:
+
+~45�50 km/l
+
+Features:
+
+?Semi-digital instrument console
+
+?Front disc brake
+
+Ideal For:
+
+College students, sporty commuters
+
+
+4. TVS Apache RTR 160 4V
+
+Definition:
+
+A performance-oriented street bike with aggressive styling.
+
+Price (INR):
+
+?1.25 � ?1.35 Lakhs
+
+Engine:
+
+159.7cc, oil-cooled, 4-valve
+
+Mileage:
+
+~40�45 km/l
+
+Features:
+
+?SmartXonnect (Bluetooth)
+
+?LED headlamp
+
+?Race-tuned suspension
+
+Ideal For:
+
+Young riders, urban sport use
+
+
+5. KTM RC 200
+
+Definition:
+
+A fully-faired sports bike built for performance and track-inspired styling.
+
+Price (INR):
+
+?2.15 � ?2.3 Lakhs
+
+Engine:
+
+199cc, liquid-cooled, single-cylinder
+
+Mileage:
+
+?~30�35 km/l
+
+Features:
+
+?Dual-channel ABS
+
+?Digital display
+
+?Aerodynamic fairing
+
+Ideal For:
+
+Speed lovers, performance seekers
+
+

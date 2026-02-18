@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical Chatbot</title>
+</head>
+<body>
+    <h2>Ask Medical Question</h2>
+    <form method ="post" action='/chat/'>
+        {% csrf_token %}
+        <input type="text" id="question" name="question" placeholder="Enter your question">
+        <button onclick="sendQuestion()" type='submit'>Ask</button>
+    </form>
+    <p><strong>Answer:</strong> <span id="answer"></span></p>
+
+    <script>
+        async function sendQuestion() {
+            const question = document.getElementById("question").value;
+            const formData = new FormData();
+            formData.append("question", question);
+
+            const res = await fetch"/chat/", {
+                method: "POST",
+                body: formData
+            });
+            const data = await res.json();
+            document.getElementById("answer").innerText = data.response || data.error;
+        }
+    </script>
+</body>
+</html>
